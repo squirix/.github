@@ -19,7 +19,8 @@ operational surfaces on the server.
 | --- | --- |
 | **Main repository** | [squirix/squirix](https://github.com/squirix/squirix) — client SDK, server runtime, docs, benchmarks |
 | **Client package** | [`squirix` on NuGet](https://www.nuget.org/packages/squirix/) |
-| **Server packages** | [`squirix.server`](https://www.nuget.org/packages/squirix.server/), [`squirix.server.tool`](https://www.nuget.org/packages/squirix.server.tool/) |
+| **Server package** | [`squirix.server` on NuGet](https://www.nuget.org/packages/squirix.server/) — embeddable server runtime library |
+| **Server tool** | [`squirix.server.tool` on NuGet](https://www.nuget.org/packages/squirix.server.tool/) — standalone `squirix-server` global tool |
 | **Quick start** | [README → Quick start](https://github.com/squirix/squirix#quick-start) |
 
 ```text
@@ -27,6 +28,8 @@ application  →  Squirix client SDK  →  squirix server node(s)
 ```
 
 ```csharp
+using Squirix;
+
 await using var client = await SquirixClient.ConnectAsync("https://localhost:5001", cancellationToken);
 var cache = await client.GetCacheAsync<string>("demo", cancellationToken);
 await cache.SetAsync("greeting", "hello", cancellationToken: cancellationToken);
@@ -36,7 +39,7 @@ await cache.SetAsync("greeting", "hello", cancellationToken: cancellationToken);
 
 | Repository | Description |
 | --- | --- |
-| [**squirix**](https://github.com/squirix/squirix) | Core cache — `Squirix` client, `Squirix.Server` host, durability, REST/gRPC |
+| [**squirix**](https://github.com/squirix/squirix) | Core cache — `Squirix` client, `Squirix.Server` runtime, durability, REST/gRPC |
 | [**braid**](https://github.com/squirix/braid) | Deterministic async concurrency testing for .NET libraries |
 
 Extension packages (advanced APIs, clustering, operations, serializers, arena) live in separate repositories and may be
