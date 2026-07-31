@@ -83,6 +83,10 @@ private during early development.
 - Contributing guide: [contributing.md](https://github.com/squirix/squirix/blob/main/contributing.md)
 - Contact: [admin@squirix.io](mailto:admin@squirix.io)
 
+## SAST Tools
+
+[PVS-Studio](https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) - static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development.
+
 ## License
 
 Apache-2.0 — see [squirix/LICENSE](https://github.com/squirix/squirix/blob/main/LICENSE).
