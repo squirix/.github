@@ -84,3 +84,5 @@ private during early development.
 ## License
 
 Apache-2.0 — see [squirix/LICENSE](https://github.com/squirix/squirix/blob/main/LICENSE).
+
+[![Powered by NDepend](assets/powered-by-ndepend.png)](https://www.ndepend.com/)
