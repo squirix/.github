@@ -37,7 +37,7 @@ All packages are published under the [squirix NuGet profile](https://www.nuget.o
 
 | Repository | Description | CI |
 | --- | --- | --- |
-| [**squirix**](https://github.com/squirix/squirix) | Distributed cache — `Squirix` client, `Squirix.Server` runtime, durability, REST/gRPC | [![CI](https://github.com/squirix/squirix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix/actions/workflows/ci.yml) |
+| [**squirix**](https://github.com/squirix/squirix) | Distributed cache — `Squirix` client, `Squirix.Server` runtime, durability, gRPC | [![CI](https://github.com/squirix/squirix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix/actions/workflows/ci.yml) |
 | [**squirix.analyzers**](https://github.com/squirix/squirix.analyzers) | Design-time Roslyn analyzers enforcing squirix coding conventions | [![CI](https://github.com/squirix/squirix.analyzers/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix.analyzers/actions/workflows/ci.yml) |
 | [**braid**](https://github.com/squirix/braid) | Deterministic async concurrency testing for .NET libraries | [![CI](https://github.com/squirix/braid/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/braid/actions/workflows/ci.yml) |
 
