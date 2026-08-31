@@ -15,8 +15,6 @@ for .NET libraries and Roslyn analyzers.
 
 > Early preview — evaluation and contributor feedback welcome; not production-ready yet.
 
-[![Powered by NDepend](assets/powered-by-ndepend.png)](https://www.ndepend.com/)
-
 ## Start here
 
 | | |
@@ -54,12 +52,14 @@ private during early development.
 
 ## Get involved
 
-- Report bugs or API ideas: [squirix/squirix issues](https://github.com/squirix/squirix/issues)
-- Contributing guide: [contributing.md](https://github.com/squirix/squirix/blob/main/contributing.md)
+- Pick a repository above and open an issue or pull request there — bugs, API ideas, and docs improvements are always welcome.
+- Each repository ships its own contributing guide.
+- Community and support: [squirix.io](https://squirix.io) · [Slack](https://squirix.slack.com)
 - Contact: [admin@squirix.io](mailto:admin@squirix.io)
 
 ## SAST Tools
 
+[![Powered by NDepend](assets/powered-by-ndepend.png)](https://www.ndepend.com/)
 [PVS-Studio](https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) - static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development.
 
 ## License
