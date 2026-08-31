@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/squirix/squirix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix/actions/workflows/ci.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![NuGet](https://img.shields.io/nuget/vpre/squirix?logo=nuget&logoColor=white&label=NuGet&color=004880)](https://www.nuget.org/profiles/squirix)
+[![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white)](https://www.nuget.org/profiles/squirix)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/10.0)
 [![Slack](https://img.shields.io/badge/Slack-join-4A154B?logo=slack&logoColor=white)](https://squirix.slack.com)
 
