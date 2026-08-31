@@ -9,8 +9,7 @@
 transport, journal-backed durability, operational surfaces) and developer tooling: deterministic concurrency testing
 for .NET libraries and Roslyn analyzers.
 
-[squirix.io](https://squirix.io) · [Documentation](https://github.com/squirix/squirix#documentation) ·
-[Issues](https://github.com/squirix/squirix/issues) · [Slack](https://squirix.slack.com)
+[squirix.io](https://squirix.io) · [GitHub org](https://github.com/squirix) · [Slack](https://squirix.slack.com)
 
 > Early preview — evaluation and contributor feedback welcome; not production-ready yet.
 
@@ -60,4 +59,4 @@ private during early development.
 
 ## License
 
-Apache-2.0 — see [squirix/LICENSE](https://github.com/squirix/squirix/blob/main/LICENSE).
+Apache-2.0 — see [opensource.org/licenses/Apache-2.0](https://opensource.org/licenses/Apache-2.0).
