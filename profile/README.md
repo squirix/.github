@@ -20,12 +20,12 @@ for .NET libraries and Roslyn analyzers.
 | Area | Where |
 | --- | --- |
 | **Repositories** | All projects are listed in [Public repositories](#public-repositories) below |
-| **NuGet packages** | [squirix NuGet profile](https://www.nuget.org/profiles/squirix) — all published packages |
+| **NuGet packages** | [NuGet profile](https://www.nuget.org/profiles/squirix) — all published packages |
 | **Quick starts** | Each repository ships its own quick-start guide in its README |
 
 ### NuGet packages
 
-All packages are published under the [squirix NuGet profile](https://www.nuget.org/profiles/squirix):
+All packages are published under the [squirix NuGet profile](https://www.nuget.org/profiles/squirix).
 
 | Package | Role |
 | --- | --- |
@@ -56,6 +56,7 @@ private during early development.
 ## SAST Tools
 
 [![Powered by NDepend](assets/powered-by-ndepend.png)](https://www.ndepend.com/)
+
 [PVS-Studio](https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) - static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development.
 
 ## License
