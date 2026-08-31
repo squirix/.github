@@ -15,7 +15,7 @@ for .NET libraries and Roslyn analyzers.
 
 > Early preview — evaluation and contributor feedback welcome; not production-ready yet.
 
-## Start here
+## Start Here
 
 | Area | Where |
 | --- | --- |
@@ -23,7 +23,7 @@ for .NET libraries and Roslyn analyzers.
 | **NuGet packages** | [NuGet profile](https://www.nuget.org/profiles/squirix) — all published packages |
 | **Quick starts** | Each repository ships its own quick-start guide in its README |
 
-### NuGet packages
+### NuGet Packages
 
 All packages are published under the [squirix NuGet profile](https://www.nuget.org/profiles/squirix).
 
@@ -35,7 +35,7 @@ All packages are published under the [squirix NuGet profile](https://www.nuget.o
 | [`squirix.analyzers`](https://www.nuget.org/packages/squirix.analyzers/) | Design-time Roslyn analyzers enforcing squirix coding conventions |
 | [`braid`](https://www.nuget.org/packages/braid/) | Deterministic concurrency testing for .NET libraries |
 
-## Public repositories
+## Public Repositories
 
 | Repository | Description |
 | --- | --- |
@@ -46,7 +46,7 @@ All packages are published under the [squirix NuGet profile](https://www.nuget.o
 Extension packages (advanced APIs, clustering, operations, serializers, arena) live in separate repositories and may be
 private during early development.
 
-## Get involved
+## Get Involved
 
 - Pick a repository above and open an issue or pull request there — bugs, API ideas, and docs improvements are always welcome.
 - Each repository ships its own contributing guide.
