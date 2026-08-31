@@ -17,15 +17,11 @@ for .NET libraries and Roslyn analyzers.
 
 ## Start here
 
-| | |
+| Area | Where |
 | --- | --- |
-| **Main repository** | [squirix/squirix](https://github.com/squirix/squirix) — client SDK, server runtime, docs, benchmarks |
-| **NuGet packages** | [squirix profile on NuGet](https://www.nuget.org/profiles/squirix) — all published packages |
-| **Quick start** | [README → Quick start](https://github.com/squirix/squirix#quick-start) |
-
-```text
-application  →  Squirix client SDK  →  squirix server node(s)
-```
+| **Repositories** | All projects are listed in [Public repositories](#public-repositories) below |
+| **NuGet packages** | [squirix NuGet profile](https://www.nuget.org/profiles/squirix) — all published packages |
+| **Quick starts** | Each repository ships its own quick-start guide in its README |
 
 ### NuGet packages
 
