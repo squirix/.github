@@ -1,6 +1,5 @@
 # squirix
 
-[![CI](https://github.com/squirix/squirix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix/actions/workflows/ci.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white)](https://www.nuget.org/profiles/squirix)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/10.0)
@@ -37,11 +36,11 @@ All packages are published under the [squirix NuGet profile](https://www.nuget.o
 
 ## Public Repositories
 
-| Repository | Description |
-| --- | --- |
-| [**squirix**](https://github.com/squirix/squirix) | Distributed cache — `Squirix` client, `Squirix.Server` runtime, durability, REST/gRPC |
-| [**squirix.analyzers**](https://github.com/squirix/squirix.analyzers) | Design-time Roslyn analyzers enforcing squirix coding conventions |
-| [**braid**](https://github.com/squirix/braid) | Deterministic async concurrency testing for .NET libraries |
+| Repository | Description | CI |
+| --- | --- | --- |
+| [**squirix**](https://github.com/squirix/squirix) | Distributed cache — `Squirix` client, `Squirix.Server` runtime, durability, REST/gRPC | [![CI](https://github.com/squirix/squirix/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix/actions/workflows/ci.yml) |
+| [**squirix.analyzers**](https://github.com/squirix/squirix.analyzers) | Design-time Roslyn analyzers enforcing squirix coding conventions | [![CI](https://github.com/squirix/squirix.analyzers/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/squirix.analyzers/actions/workflows/ci.yml) |
+| [**braid**](https://github.com/squirix/braid) | Deterministic async concurrency testing for .NET libraries | [![CI](https://github.com/squirix/braid/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/squirix/braid/actions/workflows/ci.yml) |
 
 Extension packages (advanced APIs, clustering, operations, serializers, arena) live in separate repositories and may be
 private during early development.
