@@ -23,7 +23,7 @@ for .NET libraries and Roslyn analyzers.
 | **NuGet packages** | [NuGet profile](https://www.nuget.org/profiles/squirix) — all published packages |
 | **Quick starts** | Each repository ships its own quick-start guide in its README |
 
-### NuGet Packages
+## NuGet Packages
 
 All packages are published under the [squirix NuGet profile](https://www.nuget.org/profiles/squirix).
 
